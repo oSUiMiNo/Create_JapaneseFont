@@ -632,10 +632,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: "\u6F22\u6570\u5B57"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9dd8d6bae8201384fa71fd513a760029, type: 2}
-  m_sharedMaterial: {fileID: 2976522732370728671, guid: 9dd8d6bae8201384fa71fd513a760029,
+  m_fontAsset: {fileID: 11400000, guid: 708b365a87df9db49b8a0614afa4f536, type: 2}
+  m_sharedMaterial: {fileID: 2698171424539699175, guid: 708b365a87df9db49b8a0614afa4f536,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
